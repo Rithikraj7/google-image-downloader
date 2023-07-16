@@ -46,7 +46,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- The code is based on the example provided by OpenAI in their GPT-3 Playground.
 - Thanks to the contributors and maintainers of the Selenium, Tkinter, and Pillow libraries.
 
 
